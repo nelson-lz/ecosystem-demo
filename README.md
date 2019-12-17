@@ -2,6 +2,8 @@
 ## Ingeniería Web: Visión General (IWVG)
 ### Ecosistema Software
 > Este proyecto es un apoyo docente de la asignatura. Cada release liberada corresponde al código utilizado en clase del curso indicado
+## Estado de Código
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=py.edu.lpzsoft%3Aiwvg-ecosystem&metric=alert_status)](https://sonarcloud.io/dashboard?id=py.edu.lpzsoft%3Aiwvg-ecosystem)
 
 [![GitHub](https://img.shields.io/github/license/miw-upm/iwvg-ecosystem?color=informational)](https://github.com/miw-upm/iwvg-ecosystem/blob/develop/LICENSE.md)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/miw-upm/iwvg-ecosystem?color=informational)](https://github.com/miw-upm/iwvg-ecosystem/releases)
