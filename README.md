@@ -5,6 +5,7 @@
 ## Estado de Código
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=py.edu.lpzsoft%3Aiwvg-ecosystem&metric=alert_status)](https://sonarcloud.io/dashboard?id=py.edu.lpzsoft%3Aiwvg-ecosystem)
 [![BCH compliance](https://bettercodehub.com/edge/badge/nelson-lz/ecosystem-demo?branch=develop)](https://bettercodehub.com/)
+[![Heroku broken](https://iwvg-ecosystem-nelson.herokuapp.com/system/version-badge)](https://iwvg-ecosystem-nelson.herokuapp.com/swagger-ui.html)
 
 
 
